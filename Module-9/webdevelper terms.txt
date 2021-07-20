@@ -1,0 +1,13 @@
+﻿WEB DEVELOPER JOB TERMINOLOGY
+
+
+1. WordPress-        the most popular way to create a website or blog, powering over 40% of all websites on the internet.
+2. Shopify-        a commerce platform that is quick to launch and helps turn ideas into businesses
+3. SaaS-                allow users to connect to and use cloud based apps via the internet,         ex. - gmail, office365, slack or dropbox . 
+4. Liquid-                a template language for shopify. It acts as a bridge between HTML and a data store(Shopify)
+5. SQL-                Structured Query Language: it is used to communicate with a database. It is the standard language for relational database management systems.
+6. jQuery-        is a lightweight version on javascript.  It takes many lines of code and simplifies them into one line.
+7. WooCommerce-        a free plug-in to wordpress that gives wordpress ecommerce functionality
+8. AJAX-                allows a user to read data from a web server after a webpage has loaded and allows for updating web pages without reloading them
+9. XLM-                eXtensible Markup Language: it is similar to HTML and was designed to store and transfer data. XLM is designed to carry data and HTML is designed to display data.
+10. PHP-        Hypertext Preprocessor: it is a server scripting language. It is used for making dynamic and interactive web pages.
